@@ -1,4 +1,2 @@
 # Harjoitustyo
 Testausta
-
-Eka Commit
